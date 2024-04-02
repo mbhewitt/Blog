@@ -9,7 +9,7 @@ You will need an internal temperature sensor, an external temperature sensor, an
 
 The next concept is degree-hour. This is a way of quantifying how much energy the AC will need to remove from the space based on the difference between the indoor and outdoor temperature. This bit of mathematical wizardry allows us to exclude the temperatures which the AC would not need to deal with. In looking at the graphs, my unmodified outdoor temperature is roughly 5 degrees less than the measured indoor temperature. Take the target thermostat temperature, subtract 5 minus the measured the average outdoor temperature for the hour, then sum all of the positive numbers.
 
-![ \sum (((T_{T}-5)-\bar{T_{O})} > 0)](TempEq.png)
+![ \sum ((\bar{T_{O}}-(T_{T}-5)) > 0)](TempEq.png)
  
 For a given day we calculate the total number of degree-hours and measure the total number of Watt-hours of energy used to maintain it. My test setup included no other appliances on, the space unoccupied, doors and windows closed, measurement period from midnight to midnight.
 
