@@ -1,5 +1,5 @@
 
-# How to calculate Air Conditioning power needs from outside temperature!
+# HowTo calculate thermostat target temperature for air conditioning from solar energy!
 
 <img src="solar-AC.jpg" width="640" alt="solar panels and Air Conditioning">
 
