@@ -1,7 +1,7 @@
 
 # How to calculate Air Conditioning power needs from outside temperature!
 
-<img src="solarAC.jpg" width="640" alt="solar panels and Air Conditioning">
+<img src="solar-AC.jpg" width="640" alt="solar panels and Air Conditioning">
 
 A common question among RVers when they start installing solar and lithium batteries is, “how much will I need to run my air conditioner?” Like many questions, the answer is it depends. To figure this out, we need to know several pieces of information. For a given outdoor temperature, how much energy is needed to maintain the thermostat temperature? Calculating by adding up all of the sources of heat, insulation, and equipment specification while possible, it is much easier to run an experiment. 
 
