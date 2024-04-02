@@ -1,5 +1,5 @@
 
-![ solar panels and Air Conditioning ](SolarAC.jpg)
+![ solar panels and Air Conditioning ](solarAC.jpg)
 A common question among RVers when they start installing solar and lithium batteries is, “how much will I need to run my air conditioner?” Like many questions, the answer is it depends. To figure this out, we need to know several pieces of information. For a given outdoor temperature, how much energy is needed to maintain the thermostat temperature? Calculating by adding up all of the sources of heat, insulation, and equipment specification while possible, it is much easier to run an experiment. 
 
 You will need an internal temperature sensor, an external temperature sensor, and a power meter. I used Ecowitt for my outdoor temperature sensor, I decoded the bluetooth on my Easytouch RV thermostat to get the internal temperature, and my Growatt inverter reports how much energy I am using throughout the day. My AC is a Coleman high efficiency model which uses around 1000W when on.
